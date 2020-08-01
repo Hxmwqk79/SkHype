@@ -14,7 +14,7 @@ and this allows for a single point of failure, and requires trust/dis-trust.
 
 |Vision|
 I planned to found a program which: 
-1st allows for a voice caller, how to upload ".exe" to gitlab
+1st allows for a voice caller, 
 but without relying on even a de-centralised middleman server whatsoever! 
 2nd uses the Privyweb [Private-web (my name for self contained networks {like I2P & Tor})], 
 to publish content and live data sharing, 
