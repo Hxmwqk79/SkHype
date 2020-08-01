@@ -31,7 +31,7 @@ using port forwarding directly between the routers' peers,
 without any middle-man in-between whatsoever! 
 The latest version is Alpha8.5 which has a Graphical User Interface, 
 address-book, and texting capabilities (copy & paste links), among others. 
-Alpha1 which was developed in one day supports unlimited file-sharing size! https://nc.nl.tab.digital/s/TWbFW6PdHxEwkxJ
+Alpha1 which was developed in one day supports unlimited file-sharing size! 
 
 |Read-Me-Instructions|
 The most convenient way to execute the program is to launch the Alpha8.5 SkHype.exe. 
