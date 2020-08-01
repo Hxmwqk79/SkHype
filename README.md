@@ -10,8 +10,8 @@ I saw a lack and need for a new communication program,
 as everything I saw that allowed: 
 voice calling + live file/data sharing relied on a centralised, 
 or semi-centralised server, 
-and this allows for a single point of failure, and requires trust/dis-trust.
-how to upload ".exe" to gitlab
+and this allows for a single point of failure, and requires trust/dis-trust. 
+
 |Vision|
 I planned to found a program which: 
 1st allows for a voice caller, how to upload ".exe" to gitlab
