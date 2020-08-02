@@ -35,7 +35,7 @@ Alpha1 which was developed in one day supports unlimited file-sharing size!
 
 |Read-Me-Instructions|
 The most convenient way to execute the program is to launch the Alpha8.5 SkHype.exe. 
-http://bit.do/SkHype8-5 or: https://nc.nl.tab.digital/s/Azmtc9LS3bFd9E7/download 
+https://bit.do/skhype8-5 
 Important: Make sure the Contacts.txt is in the same folder as SkHype before running, 
 and that it has at least 2 empty lines. 
 For Linux and Mac Alpha8.5 you need to in-sure Python2-Tkinter, 
@@ -51,7 +51,7 @@ visit that in the address bar, then,
 click advanced, then, click WAN, then, 
 do the port-forwarding as expressed prior. 
 
-Alpha6-FF-[First-Finished] also has a Windows executable you might wana try for some reason https://nc.nl.tab.digital/s/T4RtoGDqrTSo7FN 
+Alpha6-FF-[First-Finished] also has a Windows executable you might wana try for some reason https://bit.do/skhype6 
 
 Alpha1 executes similar to V8.5 on Linux except other versions must be closed while running.
 
