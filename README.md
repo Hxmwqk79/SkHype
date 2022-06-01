@@ -78,7 +78,7 @@ All other future improvements was already discussed under 'Vision'
 |Similar Projects|
 
 I don't recommend using SkHype yet because similar projects like: 
-Jami, Tox, and RetroShare are better. 
-However if you want a high quality audio call, fast texting, 
+Jami, Tox, and RetroShare are better with overall, 
+However if you want a high quality audio call (better than Discord), fast texting, 
 fun experimenting, afraid of man-in-the-middle attack, 
-if you don't trust big projects, or just want to borrow some source, use SkHype!
+if you don't trust the big, or just want to borrow some source, use SkHype!
