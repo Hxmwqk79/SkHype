@@ -62,7 +62,7 @@ Alpha1 executes similar to V8.5 except other versions must be closed while runni
 |Future-Improvements|
 1. I̶t̶ ̶s̶t̶i̶l̶l̶ ̶n̶e̶e̶d̶s̶ ̶e̶n̶c̶r̶y̶p̶t̶i̶o̶n̶.̶ ̶
 ̶I̶'̶m̶ ̶c̶o̶n̶s̶i̶d̶e̶r̶i̶n̶g̶ ̶u̶s̶i̶n̶g̶ ̶O̶b̶f̶s̶4̶,̶ ̶F̶o̶r̶m̶a̶t̶-̶T̶r̶a̶n̶s̶f̶o̶r̶m̶i̶n̶g̶-̶E̶n̶c̶r̶y̶p̶t̶i̶o̶n̶,̶ ̶
-̶a̶n̶d̶ ̶D̶u̶s̶t̶2̶ ̶-̶ ̶T̶h̶e̶ ̶P̶o̶l̶y̶m̶o̶r̶p̶h̶i̶c̶ ̶P̶r̶o̶t̶o̶c̶o̶l̶ ̶E̶n̶g̶i̶n̶e̶ ̶a̶s̶ ̶m̶y̶ ̶e̶n̶c̶r̶y̶p̶t̶e̶d̶ ̶p̶r̶o̶t̶o̶c̶o̶l̶s̶.̶  Encryption added (see v8.7), 
+̶a̶n̶d̶ ̶D̶u̶s̶t̶2̶ ̶-̶ ̶T̶h̶e̶ ̶P̶o̶l̶y̶m̶o̶r̶p̶h̶i̶c̶ ̶P̶r̶o̶t̶o̶c̶o̶l̶ ̶E̶n̶g̶i̶n̶e̶ ̶a̶s̶ ̶m̶y̶ ̶e̶n̶c̶r̶y̶p̶t̶e̶d̶ ̶p̶r̶o̶t̶o̶c̶o̶l̶s̶.  Encryption added (see v8.7), 
 but I need help getting something better like Obfs4/Dust/Replicant-Shapeshifter Transport, to work with own Python code. https://pypi.org/project/Dust/ or https://github.com/OperatorFoundation/shapeshifter-dispatcher/ or https://github.com/twisteroidambassador/ptadapter)
 2. C̶o̶m̶p̶i̶l̶e̶ ̶e̶x̶e̶c̶u̶t̶a̶b̶l̶e̶ ̶c̶r̶o̶s̶s̶-̶p̶l̶a̶t̶f̶o̶r̶m̶ including Android. Windows and Linux executables added!
 3. Group chat. 
