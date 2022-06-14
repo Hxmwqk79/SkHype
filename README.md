@@ -41,7 +41,7 @@ Alpha1 which was developed in one day supports unlimited file-sharing size!
 
 |Read-Me-Instructions|
 
-On Linux the most convenient way to run the program is to launch the v8.7/dist/SkHype executable. 
+(You can run the old v6 on Windows os by just double clicking the .exe file), For the latest and encryption, On Linux the most convenient way to run the program is to launch the v8.7/dist/SkHype executable. 
 Important: (For any new version), Make sure the Contacts.txt is in the same folder as SkHype before running, 
 and that it has at least 2 empty lines. 
 For running the .py file in Windows, Mac, or Linux: you need to insure Python Tkinter, 
@@ -64,10 +64,9 @@ Alpha1 executes similar to V8.5 except other versions must be closed while runni
 ̶I̶'̶m̶ ̶c̶o̶n̶s̶i̶d̶e̶r̶i̶n̶g̶ ̶u̶s̶i̶n̶g̶ ̶O̶b̶f̶s̶4̶,̶ ̶F̶o̶r̶m̶a̶t̶-̶T̶r̶a̶n̶s̶f̶o̶r̶m̶i̶n̶g̶-̶E̶n̶c̶r̶y̶p̶t̶i̶o̶n̶,̶ ̶
 ̶a̶n̶d̶ ̶D̶u̶s̶t̶2̶ ̶-̶ ̶T̶h̶e̶ ̶P̶o̶l̶y̶m̶o̶r̶p̶h̶i̶c̶ ̶P̶r̶o̶t̶o̶c̶o̶l̶ ̶E̶n̶g̶i̶n̶e̶ ̶a̶s̶ ̶m̶y̶ ̶e̶n̶c̶r̶y̶p̶t̶e̶d̶ ̶p̶r̶o̶t̶o̶c̶o̶l̶s̶.̶  Encryption added (see v8.7), 
 but I need help getting something better like Obfs4/Dust/Replicant-Shapeshifter Transport, to work with own Python code. https://pypi.org/project/Dust/ or https://github.com/OperatorFoundation/shapeshifter-dispatcher/ or https://github.com/twisteroidambassador/ptadapter)
-2. Compile executable cross-platform including Android. 
+2. C̶o̶m̶p̶i̶l̶e̶ ̶e̶x̶e̶c̶u̶t̶a̶b̶l̶e̶ ̶c̶r̶o̶s̶s̶-̶p̶l̶a̶t̶f̶o̶r̶m̶ including Android. Windows and Linux executables added!
 3. Group chat. 
-4. It also needs to minamize into a tray icon when closed, 
-so that it'll continue to work. 
+4. It also needs to minamize into a tray icon when closed, so that it'll continue to work. 
 5. The voice call needs to catch up in a smart way when it gets delayed. 
 6. Unlimited file sharing size while simultaneous voice calling. 
 7. Save account data on Zeronet. 
@@ -81,4 +80,4 @@ I don't recommend using SkHype yet because similar projects like:
 Jami, Tox, and RetroShare are better with overall, 
 However if you want a high quality audio call (better than Discord), fast texting, 
 fun experimenting, afraid of man-in-the-middle attack, 
-if you don't trust the big, or just want to borrow some source, use SkHype!
+if you don't trust the big gamers, or just want to borrow some source, use SkHype!
